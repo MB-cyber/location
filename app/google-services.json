@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "710292133810",
+    "firebase_url": "https://my-project-7944-346522-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "my-project-7944-346522",
+    "storage_bucket": "my-project-7944-346522.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710292133810:android:03bad070f3012e45fe36ab",
+        "android_client_info": {
+          "package_name": "com.mouhssinebentabet.location"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710292133810-min2qqf9omphp2uh40k264ghqsjktv3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7pFlrj5cafeo9r2XwJ1X7VYjJ3OVxbf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710292133810-min2qqf9omphp2uh40k264ghqsjktv3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
